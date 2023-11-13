@@ -1,0 +1,15 @@
+{
+  "name": "manipulae-health-e2e-tests",
+  "version": "1.0.0",
+  "description": "e2e tests for patform Manipulae Health",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "author": "bruna-almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
+}
