@@ -46,6 +46,9 @@ Executar o cypress  launchpad
 npm run cypress:open
 ```
 
+#### UTILIZANDO A PIPELINE DO GITHUB ACTIONS
+
+Para executar a pipeline basta enviar as alterações para o repositório remoto.
 
 ### TESTES MANUAIS
 
